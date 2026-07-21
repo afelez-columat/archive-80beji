@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://afelez-columat.github.io/archive-80beji/sitemap.xml
